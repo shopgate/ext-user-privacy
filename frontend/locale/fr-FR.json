@@ -1,0 +1,8 @@
+{
+  "user": {
+    "delete_account": "Supprimer mon compte",
+    "delete_account_success": "Nous avons reçu votre demande de suppression de votre compte.",
+    "delete_account_error": "Une erreur inattendue est apparue. Veuillez réessayer plus tard.",
+    "delete_account_confirm": "Appuyez sur Confirmer pour supprimer toutes les données du compte. Cette opération ne peut pas être annulée."
+  }
+}
