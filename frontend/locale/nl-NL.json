@@ -1,0 +1,8 @@
+{
+  "user": {
+    "delete_account": "Verwijder mijn account",
+    "delete_account_success": "We hebben uw verzoek ontvangen om uw account te verwijderen.",
+    "delete_account_error": "Er is een onverwachte fout opgetreden. Probeer het later opnieuw.",
+    "delete_account_confirm": "Druk op Bevestigen om alle accountgegevens te verwijderen. Deze bewerking kan niet ongedaan worden gemaakt."
+  }
+}
